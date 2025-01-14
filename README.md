@@ -2,7 +2,7 @@
 ## Editando el archivo
 Archivo md del repositorio.
 
-#    create a new local repository using git init
+    create a new local repository using git init
 
     create and add a file to the repo using git add
 
